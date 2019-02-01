@@ -1,4 +1,5 @@
 
 body {
   background-color: red;
+  nav li { display: inlne; list-syl-type: none;
 }
