@@ -1,6 +1,6 @@
 nav li {
   display: inline;
   list-style-type: none;
-  textalign: center;
-  text color: #ff1414;
+  text-align: center;
+  text-color: #ff1414;
 }
