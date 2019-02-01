@@ -2,3 +2,7 @@ nav {
   display: inline;
   list-style-type: none;
 }
+
+p {
+  color: blue;
+}
