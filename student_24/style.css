@@ -3,3 +3,5 @@ nav li{
  display: inline;
   padding-left: 40px;
 }
+a:link{
+  text-decoration:none;
