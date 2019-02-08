@@ -7,3 +7,7 @@ nav li {
 p {
   color: blue;
 }
+
+a { 
+  text-decoration: none;
+}
