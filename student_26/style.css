@@ -2,3 +2,9 @@ nav{
 display:inline;
 list-style-type:none;
 }
+a:link{
+  text-decoration:none;
+}
+a:hover{
+  color:03899C;
+}
