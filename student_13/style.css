@@ -1,7 +1,7 @@
 nav li { 
   list-style-type none;  
   display inline; 
- padding-left: 4px;
+ padding-left: 40px;
 }
 a:link { 
   text-decoration:none; 
