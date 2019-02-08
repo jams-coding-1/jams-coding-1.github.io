@@ -1,1 +1,11 @@
-
+nav li {
+  list-style-type: none;
+  deisplay: inline;
+  padding- left: 40px;
+}
+a:link{
+  text-decoration:none;
+}
+a:hover{
+  color: green;
+}
