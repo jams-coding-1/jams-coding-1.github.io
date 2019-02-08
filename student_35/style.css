@@ -1,6 +1,7 @@
 nav li {
   display: inline;
   list-style-type: none;
+  text-decoration: none;
 }
 
 p {
