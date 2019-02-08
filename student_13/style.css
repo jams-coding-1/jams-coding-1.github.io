@@ -1,5 +1,11 @@
 nav li { 
   list-style-type none;  
   display inline; 
- 
+ padding-left: 4px;
+}
+a:link { 
+  text-decoration:none; 
+} 
+a:hover { 
+  color: green; 
 }
