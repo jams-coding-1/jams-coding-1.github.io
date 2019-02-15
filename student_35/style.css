@@ -19,13 +19,6 @@ a:hover {
   float: left;
   padding: 10px;
   height: 300px;
+  width: 45%;
   background-color:aliceblue;
-}
-
-.left {
-  width: 30%;
-}
-
-.right {
-  width: 60%;
 }
