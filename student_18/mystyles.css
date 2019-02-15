@@ -2,6 +2,6 @@
 body {
   background-color: red;
   nav li { display: inlne; list-syl-type: none;
-    font-family: "Comic Sans MS", cursive, sans-serif;
+   <h3> font-family: "Comic Sans MS", cursive, sans-serif;
 }
 }
