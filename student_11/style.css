@@ -11,3 +11,10 @@ a:link {
 a:hover {
  color: red; 
 }
+
+.column {
+ float: left;
+ height: 300px;
+ background-color: #ff6251;
+ padding: 10px;
+}
