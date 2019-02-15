@@ -17,7 +17,7 @@ a:hover {
 
 .column {
   float: left;
-  padding: 5%;
+  padding: 10px;
   height: 300px;
   width: 40%;
   background-color:aliceblue;
