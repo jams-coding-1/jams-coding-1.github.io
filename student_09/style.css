@@ -1,1 +1,14 @@
-
+nav ul {
+  clear: both;
+}
+nav il {
+  list-style-type: none;
+  display: inline;
+  padding-left:40px;
+}
+a:link {
+  text-decoration: none;
+}
+a:hover {
+  color: #32CD32;
+}
