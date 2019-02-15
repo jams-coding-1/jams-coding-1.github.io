@@ -1,0 +1,14 @@
+nav ul{
+clear:both;
+}
+nav li{
+list-style:none;
+display:inline;
+padding-left:40px;
+}
+a:link{
+ text-decoration:none;
+ }
+ a:hover{
+ color:green;
+ }
