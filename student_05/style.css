@@ -10,8 +10,8 @@ a:hover{
   color:blue;
 }
 .column{
-  float:left
+  float:left;
     padding:10px;
-  background-color:seafoam;
+  background-color:blue;
 width: 40%;
 }
