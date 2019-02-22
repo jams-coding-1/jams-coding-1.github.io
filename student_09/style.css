@@ -12,3 +12,8 @@ a:link {
 a:hover {
   color: #32CD32;
 }
+.column {
+  float: left;
+  padding; 10px
+  background-color: #FF26B7
+}width: 40%
