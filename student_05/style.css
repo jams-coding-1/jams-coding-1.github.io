@@ -9,3 +9,8 @@ a:link{
 a:hover{
   color:blue;
 }
+.column{
+  float:left
+    padding:10px;
+  bacground-color:seafoam;
+}width 40%
