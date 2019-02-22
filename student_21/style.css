@@ -9,3 +9,9 @@ a:link{
 a:hover{
   color: green;
 }
+.column {
+  float: left;
+  padding: 10px;
+  background-color: blue;
+ witdh: 40%,
+}
