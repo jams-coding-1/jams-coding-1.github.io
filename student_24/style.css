@@ -5,3 +5,9 @@ nav li{
 }
 a:link{
   text-decoration:none;
+}
+.column{
+  float:left;
+  padding:10px;
+  background-color:aliceblue;
+    width:40%
