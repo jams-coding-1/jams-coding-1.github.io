@@ -19,3 +19,9 @@ a:hover {
  padding: 10px;
  width: 40%;
 }
+
+.movie {
+  background-color: red;
+  text-color: white;
+}
+
