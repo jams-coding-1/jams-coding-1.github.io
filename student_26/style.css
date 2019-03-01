@@ -8,3 +8,7 @@ a:link{
 a:hover{
   color:03899C;
 }
+.Gallery{
+  display:inline-block;
+  with:33%;
+}
