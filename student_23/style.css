@@ -9,9 +9,13 @@ a:link{
 a:hover{
   color:green;
 }
-    column{
+    .column{
    float:left;
    height:300px;
    Background-color:aliceblue;
    padding:10px;
    }
+.picture{
+  display:inline-block;
+  witdth:33%;
+}
