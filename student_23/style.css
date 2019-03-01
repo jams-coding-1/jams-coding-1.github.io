@@ -18,4 +18,5 @@ a:hover{
 .picture{
   display:inline-block;
   witdth:33%;
+  height:200px;
 }
