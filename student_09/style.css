@@ -17,3 +17,7 @@ a:hover {
   padding; 10px
   background-color: #FF26B7
 }width: 40%
+.gallery {
+  display: inline-block;
+  width:33%,
+}
