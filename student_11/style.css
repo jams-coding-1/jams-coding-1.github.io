@@ -4,6 +4,12 @@ nav li {
   text-color: #ff1414;
 }
 
+.li2 {
+  display: inline;
+  list-style-type: none;
+  text-color: #ff1414;
+}
+
 a:link {
  text-decoration: none;
 }
