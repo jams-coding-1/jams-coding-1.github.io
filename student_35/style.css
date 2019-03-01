@@ -21,3 +21,8 @@ a:hover {
   width: 45%;
   background-color:aliceblue;
 }
+
+.gallery {
+  display: inline-block;
+  width: 200px;
+}
