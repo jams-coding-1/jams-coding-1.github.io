@@ -15,3 +15,7 @@ a:hover{
   background-color:blue;
 width: 40%;
 }
+.gallery{
+  display:inline-block;
+  width 35%
+}
