@@ -23,5 +23,8 @@ a:hover {
 .Movie {
   background-color: red;
   text-color: white;
+  display: inline-block;
+  width: 20%
 }
+
 
