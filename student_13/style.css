@@ -16,4 +16,8 @@ padding: 10 px;
 
 width: 40% 
 </style> 
+} 
+.gallery { 
+  display:inline-block; 
+  width:33% 
 }
