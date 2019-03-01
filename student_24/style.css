@@ -10,4 +10,8 @@ a:link{
   float:left;
   padding:10px;
   background-color:aliceblue;
-    width:40%
+    width:40%;
+.gallery{
+  display: inline_block;
+  width:33%;
+  }
